@@ -1,2 +1,4 @@
 # 3b4do
-hi im 3abdo and this is my repository , i going to put my projects here So that others may benefit from it and to develop my self in this field 🧑‍💻
+Hi there, I'm Abderrahmene Omari 👋
+Welcome to my GitHub space! I am a passionate developer and tech enthusiast. 
+Here this is my repository , Im gonna share my codes , mini projects, and small experiments as I build and learn So that others may benefit from it 🧑‍💻 . Feel free to explore my repositories! 🚀
