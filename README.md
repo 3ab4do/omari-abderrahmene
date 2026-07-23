@@ -1,13 +1,14 @@
 # 🖐️ Hey , I'm Abderrahmene Omari!
 
-I am a 15-year-old student with a strong passion for technology, robotics, and artificial intelligence. I love continuous learning and building hands-on projects that integrate software with hardware.
+I am a 15-year-old student with a strong passion for technology, robotics, and artificial intelligence. I am dedicated to continuous self-improvement and love creating impactful projects designed to help people and serve society.
 
 ---
 
 ## 🚀 About Me & Interests
-* 🤖 **Robotics & Embedded Systems:** Designing and building smart automation systems using microcontrollers.
-* 🧠 **Artificial Intelligence & Computer Vision:** Exploring image processing and data manipulation techniques.
-* 💡 **Continuous Learning:** Always eager to master new technologies and upgrade my projects step-by-step (Edition by Edition).
+* 🤖 **Robotics & Embedded Systems:** Building smart automation systems to solve real-world problems.
+* 💡 **Social Impact & Innovation:** Designing helpful, practical solutions to improve daily life and benefit the community.
+* 🧠 **Artificial Intelligence & Computer Vision:** Exploring image processing and data manipulation for intelligent applications.
+* 📈 **Self-Development:** Constantly upgrading my skills and evolving my projects step-by-step (Edition by Edition).
 
 ---
 
@@ -20,9 +21,9 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
 ---
 
 ## 📈 Roadmap & Future Goals
-* [ ] Integrate IoT (Internet of Things) into my smart automation projects.
-* [ ] Combine Computer Vision (OpenCV) with Arduino for intelligent robotics.
-* [ ] Enhance safety and security mechanisms in embedded applications.
+* [ ] Integrate Computer Vision (OpenCV) with Arduino for intelligent, real-world solutions.
+* [ ] Develop smart IoT systems aimed at improving safety and accessibility in society.
+* [ ] Continue advancing my skills in robotics and embedded software engineering.
 
 ---
 
