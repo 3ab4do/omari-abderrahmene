@@ -19,12 +19,6 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
   </a>
 </p>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=3ab4do&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -45,11 +39,6 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
 
 ---
 
-## 💡 Dev Quote of the Day
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
----
-
 ## 🌐 Connect with me:
 
 <p align="left">
@@ -58,6 +47,4 @@ I am a 15-year-old student with a strong passion for technology, robotics, and a
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/3ab4do" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="Instagram" />
-  </a>
-</p>
+    <img src="https://raw.githubusercontent.com/mau
